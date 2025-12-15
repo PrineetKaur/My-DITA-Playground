@@ -1,15 +1,10 @@
 # DITA Playground
 
-This repository is a personal learning and practice space for
-understanding **DITA (Darwin Information Typing Architecture)** and
-structured technical documentation.
+This repository is a personal learning and practice space for understanding **DITA (Darwin Information Typing Architecture)** and structured technical documentation.
 
-The goal of this playground is not to showcase a finished product, but
-to demonstrate **progressive learning** --- starting from core concepts
-and gradually moving toward more advanced DITA features and workflows.
+The goal of this playground is not to showcase a finished product, but to demonstrate **progressive learning**: Starting from core concepts and gradually moving toward more advanced DITA features and workflows.
 
-Each project in this repository is intentionally scoped and added
-incrementally.
+Each project in this repository is intentionally scoped and added incrementally.
 
 ------------------------------------------------------------------------
 
@@ -28,15 +23,13 @@ Then continue through the projects in order:
     task, reference) and shows how topics are assembled using a DITA
     map.
 
-Later projects build on these foundations and explore more advanced
-concepts.
+Later projects build on these foundations and explore more advanced concepts.
 
 ------------------------------------------------------------------------
 
 ## Planned project progression
 
-This repository is being developed step by step. Planned projects
-include:
+This repository is being developed step by step. Planned projects include:
 
 -   **`02-reuse-demo`**\
     Demonstrates content reuse using DITA mechanisms such as conrefs and
@@ -55,8 +48,7 @@ include:
     An introductory look at DITA Open Toolkit customization, including
     basic build scripts and output customization.
 
-Each project will include its own README explaining learning goals,
-scope, and design decisions.
+Each project will include its own README explaining learning goals, scope, and design decisions.
 
 ------------------------------------------------------------------------
 
@@ -64,31 +56,26 @@ scope, and design decisions.
 
 This playground focuses on:
 
--   Understanding **structured authoring principles**, not just DITA
-    syntax\
--   Writing documentation based on **user intent**\
--   Exploring **content reuse and scalability**\
+-   Understanding **structured authoring principles**, not just DITA syntax
+-   Writing documentation based on **user intent**
+-   Exploring **content reuse and scalability**
 -   Learning how DITA supports automation and multi-channel publishing
 
-The emphasis is on *clarity, structure, and reasoning* rather than
-completeness.
+The emphasis is on *clarity, structure, and reasoning* rather than completeness.
 
 ------------------------------------------------------------------------
 
 ## About the approach
 
--   Projects are kept intentionally small and focused\
--   Advanced features are introduced only after fundamentals are clear\
--   Each folder represents a learning milestone\
+-   Projects are kept intentionally small and focused
+-   Advanced features are introduced only after fundamentals are clear
+-   Each folder represents a learning milestone
 -   Git history reflects a gradual progression over time
 
-This mirrors how structured documentation is learned and applied in
-real-world teams.
+This mirrors how structured documentation is learned and applied in real-world teams.
 
 ------------------------------------------------------------------------
 
 ## Notes
 
-This repository uses fictional examples and simplified content for
-learning purposes.\
-It is not intended to represent production documentation.
+This repository uses fictional examples and simplified content for learning purposes. It is not intended to represent production documentation.
