@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference-options">
+  <title>Command Options</title>
+  <refbody>
+    <table>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Option</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>--help</entry>
+            <entry>Displays help information.</entry>
+          </row>
+          <row>
+            <entry>--version</entry>
+            <entry>Shows the installed version.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
