@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task-installation">
+  <title>Install the Tool</title>
+  <taskbody>
+    <prereq>
+      <p>Python 3.8 or later must be installed.</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Download the installer package.</cmd>
+      </step>
+      <step>
+        <cmd>Run the installer from the command line.</cmd>
+      </step>
+      <step>
+        <cmd>Verify the installation.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
