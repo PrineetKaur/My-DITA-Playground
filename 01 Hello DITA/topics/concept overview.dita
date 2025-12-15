@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept-overview">
+  <title>Product Overview</title>
+  <conbody>
+    <p>This is a fictional command-line tool used to demonstrate basic DITA concepts.</p>
+    <p>The documentation in this project focuses on understanding DITA topic types and maps.</p>
+  </conbody>
+</concept>
