@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Product Keys</title>
+
+  <keydef keys="product-name">
+    <topicmeta>
+      <keywords>
+        <keyword>Sample API</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+  <keydef keys="api-base-url">
+    <topicmeta>
+      <keywords>
+        <keyword>https://api.example.com</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+</map>
