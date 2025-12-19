@@ -1,8 +1,10 @@
 # Hello DITA
 
-This project is a minimal introduction to DITA authoring. 
+"A minimal introduction project to DITA authoring" 
 
-It aims to show how to separate documentation by User Intent:
+
+## Project Summary
+This project aims to show how to separate documentation by User Intent:
 - Concepts for explanation
 - Tasks for procedures, and
 - References for lookup
