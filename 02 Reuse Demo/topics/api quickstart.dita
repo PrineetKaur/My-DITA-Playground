@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="api-quickstart">
+  <title>API Quickstart</title>
+  <taskbody>
+
+    <prereq>
+      <p conref="../snippets/authentication-warning.dita#auth-warning"/>
+    </prereq>
+
+    <steps>
+      <step>
+        <cmd>Generate an API key from the developer dashboard.</cmd>
+      </step>
+      <step>
+        <cmd>Send a request to <ph keyref="api-base-url"/>.</cmd>
+      </step>
+    </steps>
+
+    <section>
+      <p conref="../snippets/rate-limits.dita#rate-limits/conbody"/>
+    </section>
+
+  </taskbody>
+</task>
