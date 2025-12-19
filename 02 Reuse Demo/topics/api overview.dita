@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="api-overview">
+  <title>API Overview</title>
+  <conbody>
+    <p>The <ph keyref="product-name"/> provides programmatic access to core features.</p>
+    <p>All requests are sent to <ph keyref="api-base-url"/>.</p>
+  </conbody>
+</concept>
