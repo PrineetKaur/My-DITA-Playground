@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note PUBLIC "-//OASIS//DTD DITA Note//EN" "note.dtd">
+<note id="auth-warning" type="warning">
+  <p>All API requests must be authenticated using an API key.</p>
+</note>
