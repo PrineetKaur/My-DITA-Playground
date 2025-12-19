@@ -1,6 +1,6 @@
 # Reuse Demo
 
-Demonstrating how DITA supports modular documentation through Content Reuse.
+"Understanding how DITA supports modular documentation through Content Reuse."
 
 ## Project Summary
 
