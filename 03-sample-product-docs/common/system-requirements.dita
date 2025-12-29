@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="system_requirements">
+  <title>System Requirements</title>
+
+  <refbody>
+    <section>
+      <title>Supported browsers</title>
+      <ul>
+        <li>Google Chrome (latest version)</li>
+        <li>Mozilla Firefox (latest version)</li>
+        <li>Microsoft Edge (latest version)</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Network requirements</title>
+      <p>
+        An active internet connection is required to access FlowTrack.
+      </p>
+    </section>
+  </refbody>
+</reference>
