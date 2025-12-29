@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="install_product">
+  <title>Access FlowTrack</title>
+
+  <taskbody>
+    <context>
+      <p>
+        FlowTrack is a web-based application and does not require local
+        installation.
+      </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Open a supported web browser.</cmd>
+      </step>
+      <step>
+        <cmd>Navigate to the FlowTrack login URL.</cmd>
+      </step>
+      <step>
+        <cmd>Enter your user credentials.</cmd>
+      </step>
+    </steps>
+
+    <result>
+      <p>
+        You are logged in and ready to use FlowTrack.
+      </p>
+    </result>
+  </taskbody>
+</task>
