@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="product_overview">
+  <title>FlowTrack Overview</title>
+
+  <conbody>
+    <p>
+      FlowTrack is a web-based workflow management tool designed to help
+      teams track tasks, monitor progress, and collaborate efficiently.
+    </p>
+
+    <p>
+      The product supports role-based access, configurable workflows,
+      and real-time reporting.
+    </p>
+  </conbody>
+</concept>
