@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="basic_features">
+  <title>Use Basic Features</title>
+
+  <taskbody>
+    <context>
+      <p>
+        FlowTrack provides tools to create tasks, assign owners, and
+        track progress.
+      </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Create a new task.</cmd>
+      </step>
+      <step>
+        <cmd>Assign the task to a team member.</cmd>
+      </step>
+      <step>
+        <cmd>Update the task status as work progresses.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
