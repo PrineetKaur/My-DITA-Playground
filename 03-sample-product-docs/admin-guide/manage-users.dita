@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="manage_users">
+  <title>Manage Users</title>
+
+  <taskbody>
+    <context>
+      <p>
+        Administrators control user access and roles in FlowTrack.
+      </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Create new user accounts.</cmd>
+      </step>
+      <step>
+        <cmd>Assign roles such as User or Administrator.</cmd>
+      </step>
+      <step>
+        <cmd>Deactivate users when access is no longer required.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
