@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="configure_system">
+  <title>Configure FlowTrack</title>
+
+  <taskbody>
+    <context>
+      <p>
+        Administrators can configure system settings to match organizational needs.
+      </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Open the Admin Settings page.</cmd>
+      </step>
+      <step>
+        <cmd>Configure workflow and notification options.</cmd>
+      </step>
+      <step>
+        <cmd>Save your changes.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
