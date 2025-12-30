@@ -23,14 +23,6 @@ Then continue through the projects in order:
     task, reference) and shows how topics are assembled using a DITA
     map.
 
-Later projects build on these foundations and explore more advanced concepts.
-
-------------------------------------------------------------------------
-
-## Planned project progression
-
-This repository is being developed step by step. Planned projects include:
-
 -   **`02-reuse-demo`**\
     Demonstrates content reuse using DITA mechanisms such as conrefs and
     keyrefs, and explains why modular documentation matters.
@@ -39,6 +31,14 @@ This repository is being developed step by step. Planned projects include:
     A small but realistic documentation set for a fictional product,
     showing how multiple guides and references can be assembled from
     reusable topics.
+
+Later projects build on these foundations and explore more advanced concepts.
+
+------------------------------------------------------------------------
+
+## Planned project progression
+
+This repository is being developed step by step. Planned projects include:
 
 -   **`04-conditional-text`**\
     Examples of conditional content for different platforms or audiences
