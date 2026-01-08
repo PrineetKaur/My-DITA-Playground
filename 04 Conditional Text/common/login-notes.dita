@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="login_notes">
+  <title>Login Notes</title>
+
+  <conbody>
+    <p>
+      FlowTrack can be accessed from different platforms depending on your role.
+    </p>
+
+    <p platform="web">
+      When accessing FlowTrack from a web browser, ensure that cookies are enabled.
+    </p>
+
+    <p platform="mobile">
+      When using the FlowTrack mobile app, make sure you have the latest version installed.
+    </p>
+  </conbody>
+</concept>
