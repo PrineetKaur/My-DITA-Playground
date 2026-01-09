@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="access_flowtrack" audience="user">
+  <title>Access FlowTrack</title>
+
+  <taskbody>
+    <context>
+      <p>
+        Users access FlowTrack to view and update assigned tasks.
+      </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Open the FlowTrack login page.</cmd>
+      </step>
+      <step>
+        <cmd>Enter your username and password.</cmd>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>Log in</uicontrol>.</cmd>
+      </step>
+    </steps>
+
+    <result>
+      <p>
+        You are logged in as a standard user.
+      </p>
+    </result>
+  </taskbody>
+</task>
