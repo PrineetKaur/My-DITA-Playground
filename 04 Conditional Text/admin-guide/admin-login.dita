@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="admin_login" audience="admin">
+  <title>Administrator Login</title>
+
+  <taskbody>
+    <context>
+      <p>
+        Administrators have additional access and configuration privileges.
+      </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Open the FlowTrack admin login page.</cmd>
+      </step>
+      <step>
+        <cmd>Enter administrator credentials.</cmd>
+      </step>
+      <step>
+        <cmd>Verify access to the Admin Dashboard.</cmd>
+      </step>
+    </steps>
+
+    <result>
+      <p>
+        You are logged in with administrator privileges.
+      </p>
+    </result>
+  </taskbody>
+</task>
