@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="com.prineet.html-custom">
+
+  <!-- Copy custom CSS into the HTML output folder -->
+  <target name="dita2html5.copy-css">
+    <copy todir="${output.dir}/css">
+      <fileset dir="${dita.plugin.com.prineet.html-custom.dir}/css"/>
+    </copy>
+  </target>
+
+</project>
