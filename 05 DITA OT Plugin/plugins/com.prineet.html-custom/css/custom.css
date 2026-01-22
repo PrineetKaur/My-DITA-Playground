@@ -1,0 +1,11 @@
+/* Custom styling injected via DITA-OT plugin (learning demo) */
+
+body::after {
+  content: "Generated using DITA-OT (custom plugin demo)";
+  display: block;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
