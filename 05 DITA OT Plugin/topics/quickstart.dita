@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="quickstart">
+  <title>Quick Start (Build HTML Output)</title>
+
+  <taskbody>
+    <context>
+      <p>
+        Use DITA-OT to build HTML output from the sample map.
+      </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Ensure DITA-OT is installed and available from your terminal.</cmd>
+      </step>
+
+      <step>
+        <cmd>
+          Copy the plugin folder into your DITA-OT plugins directory:
+          <codeph>plugins/com.prineet.html-custom</codeph>
+        </cmd>
+      </step>
+
+      <step>
+        <cmd>Install plugins.</cmd>
+        <info>
+          <p>
+            Run:
+            <codeph>dita --install</codeph>
+          </p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Build the HTML output.</cmd>
+        <info>
+          <p>
+            Run:
+            <codeph>dita -i sample.ditamap -f html5 -o out</codeph>
+          </p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Open the generated HTML files and confirm the custom styling is applied.</cmd>
+      </step>
+    </steps>
+
+    <result>
+      <p>
+        HTML output is generated in the output folder, including custom styling.
+      </p>
+    </result>
+  </taskbody>
+</task>
