@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="overview">
+  <title>Publishing Customization Overview</title>
+
+  <conbody>
+    <p>
+      This mini documentation set exists to demonstrate a DITA Open Toolkit
+      (DITA-OT) customization through a simple plugin.
+    </p>
+
+    <p>
+      The goal is to apply a small visual change in the HTML output without
+      modifying the DITA source topics.
+    </p>
+  </conbody>
+</concept>
